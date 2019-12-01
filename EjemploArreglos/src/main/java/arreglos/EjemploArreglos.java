@@ -1,4 +1,4 @@
-//
+//ejemplos de arreglos
 package arreglos;
 
 public class EjemploArreglos {
