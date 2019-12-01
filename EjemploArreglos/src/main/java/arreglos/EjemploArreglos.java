@@ -1,4 +1,4 @@
-//2019
+//
 package arreglos;
 
 public class EjemploArreglos {
