@@ -12,17 +12,17 @@ public enum Continentes {
     // Definimos atributos de Paises;
     
     
-    private final int pasises;
+    private final int paises;
     
     // constructor de cada elemeto de la enumeracion
     
     Continentes (int paises){
     
-    this.pasises = paises;
+    this.paises = paises;
     }
 
     public int getPasises() {
-        return this.pasises;
+        return this.paises;
     }
     
     
